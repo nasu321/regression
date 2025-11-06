@@ -27,6 +27,7 @@ ML Type: Supervised Learning → Regression
 Dataset: Car resale data with features like Year, Mileage, Fuel Type, Transmission, and Seller Type
 
 ## 📊 Example Input / Output
+<img src="House_price/static/images/house_ui.png" width="700">
 ## House Price Prediction System
 📘 Overview
 
@@ -56,3 +57,4 @@ ML Type: Supervised Learning → Regression
 Dataset: Contains attributes such as Location, Area, Bedrooms, Bathrooms, and Furnishing
 
 ## 📊 Example Input / Output
+<img src="House_price/static/images/house_ui.png" width="700">
