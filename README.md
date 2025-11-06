@@ -57,4 +57,4 @@ ML Type: Supervised Learning → Regression
 Dataset: Contains attributes such as Location, Area, Bedrooms, Bathrooms, and Furnishing
 
 ## 📊 Example Input / Output
-<img src="House_price/static/images/house_ui.png" width="700">
+<img src="House_price/static/css/Screenshot 2025-11-05 125032.png" width="700">
