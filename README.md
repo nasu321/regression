@@ -28,7 +28,8 @@ Dataset: Car resale data with features like Year, Mileage, Fuel Type, Transmissi
 
 ## 📊 Example Input / Output
 <img src="car_price/Screenshot 2025-11-05 124743.png" width="700">
-## House Price Prediction System
+
+## 🏠House Price Prediction System
 📘 Overview
 
 The House Price Prediction System predicts the market price of a house using features such as area, number of bedrooms, location, and furnishing.
